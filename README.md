@@ -1,7 +1,41 @@
 # HTML
-1st Repository of Github!
 <br>
-I HAVE STUDIED HTML AND THIS HTML REPOSITORY HAD HELP ME UNDERSTOOD THE HTML CONCEPTS AND DIFFERENT TYPES OF TAG OF HTML. 
+🌐 HTML Fundamentals & Projects:
 <br>
-AND THIS REPOSITORY IS THE PROVE THAT I HAVE LEARNED HOW TO MAKE SOME BASIC FORMS AND USED VARIOUS OF INPUT AND FORM HOLDER TYPES. 
+This repository showcases my understanding of HTML (HyperText Markup Language) through structured examples and mini projects. It covers core HTML concepts used to build modern, semantic, and accessible web pages.
+<br>
+📌 What I’ve Learned:
+<br>
+* HTML5 structure & syntax<br>
+* Semantic HTML (`header`, `nav`, `section`, `article`, `footer`)<br>
+* Forms & input elements <br>
+* Tables & lists <br>
+* Media elements (images, audio, video) <br>
+* Links & navigation <br>
+* Accessibility basics <br>
+* Clean and readable markup <br>
 
+## 🛠️ Technologies Used:<br>
+* HTML5 <br>
+* VS Code (Editor <br>)
+* Browser DevTools (for testing) <br>
+
+🚀 Repository Included: <br>
+
+* ✅ Basic Website Layout<br>
+* ✅ Registration / Login Form <br>
+* ✅ Table-based Data Page <br>
+* ✅ Semantic Web Page<br>
+* ✅ Simple Landing Page <br>
+
+🎯 Purpose of This Repository: <br>
+
+* Strengthen HTML fundamentals <br>
+* Practice real-world web page structures <br>
+* Build a strong foundation for CSS & JavaScript <br>
+
+🤝 Connect With Me- <br>
+
+* LinkedIn:  <br>
+* GitHub:   <br>
+* Email: zishanahmed.official@gmail.com 
