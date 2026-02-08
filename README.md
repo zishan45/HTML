@@ -1,6 +1,6 @@
 # HTML
 <br>
-**🌐 HTML Fundamentals & Projects:**
+#🌐 HTML Fundamentals & Projects:
 <br>
 This repository showcases my understanding of HTML (HyperText Markup Language) through structured examples and mini projects. It covers core HTML concepts used to build modern, semantic, and accessible web pages.
 <br><br>
@@ -14,14 +14,13 @@ This repository showcases my understanding of HTML (HyperText Markup Language) t
 * Links & navigation <br>
 * Accessibility basics <br>
 * Clean and readable markup <br>
-
-🛠️ Technologies Used:<br>
+<br>
+🛠️ Technologies Used:
 * HTML5 <br>
 * VS Code (Editor) <br>
 * Browser DevTools (for testing) <br>
 <br>
-🚀 Repository Included: <br>
-
+🚀 Repository Included:
 * ✅ Basic Website Layout<br>
 * ✅ Registration / Login Form <br>
 * ✅ Table-based Data Page <br>
