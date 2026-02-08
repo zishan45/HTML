@@ -1,6 +1,6 @@
 # HTML
 <br>
-🌐 HTML Fundamentals & Projects:
+**🌐 HTML Fundamentals & Projects:**
 <br>
 This repository showcases my understanding of HTML (HyperText Markup Language) through structured examples and mini projects. It covers core HTML concepts used to build modern, semantic, and accessible web pages.
 <br><br>
