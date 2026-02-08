@@ -35,6 +35,6 @@ This repository showcases my understanding of HTML (HyperText Markup Language) t
 <br>
 🤝 Connect With Me- <br>
 
-* LinkedIn:  <br>
-* GitHub:   <br>
+* LinkedIn: https://Linkedin.com/in/zishanahmed45  <br>
+* GitHub: https://github.com/zishan45  <br>
 * Email: zishanahmed.official@gmail.com 
