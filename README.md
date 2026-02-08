@@ -34,7 +34,7 @@ This repository showcases my understanding of HTML (HyperText Markup Language) t
 * Build a strong foundation for CSS & JavaScript <br>
 <br>
 🤝 Connect With Me- <br>
-
-* LinkedIn: https://Linkedin.com/in/zishanahmed45  <br>
-* GitHub: https://github.com/zishan45  <br>
-* Email: zishanahmed.official@gmail.com 
+* LinkedIn: https://Linkedin.com/in/zishanahmed45    <br>
+* GitHub: https://github.com/zishan45   <br>
+* LeetCode: https://leetcode.com/u/TJ0GbrR8Fc/   <br>
+* Email: zishanahmed.official@gmail.com<br>
